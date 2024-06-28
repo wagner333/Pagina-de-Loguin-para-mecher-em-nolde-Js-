@@ -8,6 +8,7 @@
     box-sizing: border-box;
 }
 body{
+    background-size: 100vw 60vw;
     font-family: "Open Sans", sans-serif;
     background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/4243021-abstract-template-background-white-and-bright-blue-square-overlapping-with-halftone-and-texture-gratis-vetor.jpg) ;
 }
